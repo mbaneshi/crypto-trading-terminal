@@ -14,7 +14,7 @@ Get up and running in 10 minutes!
 
 ```bash
 # Clone/Navigate to project
-cd /Users/nerd/freelancer/09-crypto-memecoin-trading-app
+cd crypto-trading-terminal
 
 # Install mobile app dependencies
 cd mobile/MemecoinTradingApp
